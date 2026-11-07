@@ -1,0 +1,10 @@
+{
+  "description": "A responsive scientific calculator for students and engineers, with DEG/RAD modes, reusable variables, a custom formula library, and calculation history.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
